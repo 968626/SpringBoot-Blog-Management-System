@@ -1,40 +1,43 @@
 # SpringBoot博客管理系统
 
-#### 介绍
-SpringBoot框架
-博客管理系统
-Mysql数据库
-计算机毕业设计
+ **
 
-#### 软件架构
-软件架构说明
+### 定制调试讲解毕业设计加微信jsjbyzd
+** 
+🎓【毕业设计选题】
 
+在信息爆炸的时代，个人博客成为表达思想、分享知识的重要渠道。一个高效、易用的博客管理系统对于提升博主的创作体验、增强内容的传播力具有重要意义。
 
-#### 安装教程
+🛠️【技术栈剖析】
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+核心框架：SpringBoot，Java企业级应用的轻量级框架，快速搭建RESTful API，保障服务的高效与稳定。
+数据库：MySQL，关系型数据库，存储博客文章、用户信息和评论数据。
+前端技术：可以选择Thymeleaf模板引擎快速构建页面，或者使用Vue.js等现代JavaScript框架。
 
-#### 使用说明
+✍️【系统功能详解】
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+文章管理：博主可以轻松撰写、编辑和发布文章，系统支持Markdown编辑器和富文本编辑器。
+分类与标签：系统支持文章的分类管理和标签系统，便于读者检索和浏览。
+评论互动：读者可以对文章进行评论，博主可以回复和管理评论，增强互动性。
+访问统计：系统提供博客访问量的统计分析，帮助博主了解内容的受欢迎程度。
+个性化设置：博主可以自定义博客的主题、布局和样式，打造个性化的博客空间。
+![输入图片说明](1.png)
+![输入图片说明](2.png)
+![输入图片说明](3.png)
+![输入图片说明](4.png)
+![输入图片说明](5.png)
+![输入图片说明](6.png)
+![输入图片说明](7.png)
+![输入图片说明](8.png)
+![输入图片说明](9.png)
+![输入图片说明](10.png)
+![输入图片说明](11.png)
 
-#### 参与贡献
+ **
 
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
-
-
-#### 特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+### 案例展示
+** 
+![输入图片说明](ddc50bd481492d1ecece47729cea0f6.jpg)
+![输入图片说明](cde79ff724216fef9fa66d835f48a71.jpg)
+![输入图片说明](c1456d7170def8a4666b0f62bfb38b6.jpg)
+![输入图片说明](89434a7b32b512a8a7938f99bd1bd67.jpg)
